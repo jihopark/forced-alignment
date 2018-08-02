@@ -1,0 +1,5 @@
+scipy==0.18.1
+json==2.0.9
+numpy
+aeneas
+lxml
