@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.640", 
+   "id": "f000001", 
+   "language": "eng", 
+   "lines": [
+    "that's"
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "children": [], 
+   "end": "1.000", 
+   "id": "f000002", 
+   "language": "eng", 
+   "lines": [
+    "what"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "children": [], 
+   "end": "1.320", 
+   "id": "f000003", 
+   "language": "eng", 
+   "lines": [
+    "you"
+   ]
+  }, 
+  {
+   "begin": "1.320", 
+   "children": [], 
+   "end": "1.360", 
+   "id": "f000004", 
+   "language": "eng", 
+   "lines": [
+    "do"
+   ]
+  }
+ ]
+}

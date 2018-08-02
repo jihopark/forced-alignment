@@ -1,0 +1,344 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.800", 
+   "id": "f000001", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "children": [], 
+   "end": "2.320", 
+   "id": "f000002", 
+   "language": "eng", 
+   "lines": [
+    "flight"
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "children": [], 
+   "end": "2.320", 
+   "id": "f000003", 
+   "language": "eng", 
+   "lines": [
+    "was"
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "children": [], 
+   "end": "2.560", 
+   "id": "f000004", 
+   "language": "eng", 
+   "lines": [
+    "12"
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "children": [], 
+   "end": "2.920", 
+   "id": "f000005", 
+   "language": "eng", 
+   "lines": [
+    "hours"
+   ]
+  }, 
+  {
+   "begin": "2.920", 
+   "children": [], 
+   "end": "3.200", 
+   "id": "f000006", 
+   "language": "eng", 
+   "lines": [
+    "long"
+   ]
+  }, 
+  {
+   "begin": "3.200", 
+   "children": [], 
+   "end": "3.320", 
+   "id": "f000007", 
+   "language": "eng", 
+   "lines": [
+    "and"
+   ]
+  }, 
+  {
+   "begin": "3.320", 
+   "children": [], 
+   "end": "3.520", 
+   "id": "f000008", 
+   "language": "eng", 
+   "lines": [
+    "we"
+   ]
+  }, 
+  {
+   "begin": "3.520", 
+   "children": [], 
+   "end": "3.840", 
+   "id": "f000009", 
+   "language": "eng", 
+   "lines": [
+    "really"
+   ]
+  }, 
+  {
+   "begin": "3.840", 
+   "children": [], 
+   "end": "4.080", 
+   "id": "f000010", 
+   "language": "eng", 
+   "lines": [
+    "got"
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "children": [], 
+   "end": "4.360", 
+   "id": "f000011", 
+   "language": "eng", 
+   "lines": [
+    "bored"
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "children": [], 
+   "end": "6.440", 
+   "id": "f000012", 
+   "language": "eng", 
+   "lines": [
+    "they"
+   ]
+  }, 
+  {
+   "begin": "6.440", 
+   "children": [], 
+   "end": "6.760", 
+   "id": "f000013", 
+   "language": "eng", 
+   "lines": [
+    "only"
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "children": [], 
+   "end": "7.080", 
+   "id": "f000014", 
+   "language": "eng", 
+   "lines": [
+    "played"
+   ]
+  }, 
+  {
+   "begin": "7.080", 
+   "children": [], 
+   "end": "7.520", 
+   "id": "f000015", 
+   "language": "eng", 
+   "lines": [
+    "two"
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "children": [], 
+   "end": "8.240", 
+   "id": "f000016", 
+   "language": "eng", 
+   "lines": [
+    "movies"
+   ]
+  }, 
+  {
+   "begin": "8.240", 
+   "children": [], 
+   "end": "8.480", 
+   "id": "f000017", 
+   "language": "eng", 
+   "lines": [
+    "which"
+   ]
+  }, 
+  {
+   "begin": "8.480", 
+   "children": [], 
+   "end": "8.600", 
+   "id": "f000018", 
+   "language": "eng", 
+   "lines": [
+    "we"
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "children": [], 
+   "end": "8.680", 
+   "id": "f000019", 
+   "language": "eng", 
+   "lines": [
+    "had"
+   ]
+  }, 
+  {
+   "begin": "8.680", 
+   "children": [], 
+   "end": "8.880", 
+   "id": "f000020", 
+   "language": "eng", 
+   "lines": [
+    "both"
+   ]
+  }, 
+  {
+   "begin": "8.880", 
+   "children": [], 
+   "end": "9.600", 
+   "id": "f000021", 
+   "language": "eng", 
+   "lines": [
+    "already"
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "children": [], 
+   "end": "11.440", 
+   "id": "f000022", 
+   "language": "eng", 
+   "lines": [
+    "seen"
+   ]
+  }, 
+  {
+   "begin": "11.440", 
+   "children": [], 
+   "end": "11.520", 
+   "id": "f000023", 
+   "language": "eng", 
+   "lines": [
+    "I"
+   ]
+  }, 
+  {
+   "begin": "11.520", 
+   "children": [], 
+   "end": "11.680", 
+   "id": "f000024", 
+   "language": "eng", 
+   "lines": [
+    "never"
+   ]
+  }, 
+  {
+   "begin": "11.680", 
+   "children": [], 
+   "end": "11.720", 
+   "id": "f000025", 
+   "language": "eng", 
+   "lines": [
+    "get"
+   ]
+  }, 
+  {
+   "begin": "11.720", 
+   "children": [], 
+   "end": "11.920", 
+   "id": "f000026", 
+   "language": "eng", 
+   "lines": [
+    "to"
+   ]
+  }, 
+  {
+   "begin": "11.920", 
+   "children": [], 
+   "end": "12.360", 
+   "id": "f000027", 
+   "language": "eng", 
+   "lines": [
+    "sleep"
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "children": [], 
+   "end": "12.480", 
+   "id": "f000028", 
+   "language": "eng", 
+   "lines": [
+    "on"
+   ]
+  }, 
+  {
+   "begin": "12.480", 
+   "children": [], 
+   "end": "12.560", 
+   "id": "f000029", 
+   "language": "eng", 
+   "lines": [
+    "the"
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "children": [], 
+   "end": "13.360", 
+   "id": "f000030", 
+   "language": "eng", 
+   "lines": [
+    "airplane"
+   ]
+  }, 
+  {
+   "begin": "13.360", 
+   "children": [], 
+   "end": "13.480", 
+   "id": "f000031", 
+   "language": "eng", 
+   "lines": [
+    "because"
+   ]
+  }, 
+  {
+   "begin": "13.480", 
+   "children": [], 
+   "end": "13.680", 
+   "id": "f000032", 
+   "language": "eng", 
+   "lines": [
+    "it's"
+   ]
+  }, 
+  {
+   "begin": "13.680", 
+   "children": [], 
+   "end": "14.080", 
+   "id": "f000033", 
+   "language": "eng", 
+   "lines": [
+    "so"
+   ]
+  }, 
+  {
+   "begin": "14.080", 
+   "children": [], 
+   "end": "17.760", 
+   "id": "f000034", 
+   "language": "eng", 
+   "lines": [
+    "uncomfortable"
+   ]
+  }
+ ]
+}
