@@ -1,0 +1,609 @@
+MOT	whad  what do you have ?
+CHI	I have a cup .
+CHI	xxx a xxx .
+CHI	mommy what're you doing ?
+MOT	okay , gimme your cup .
+MOT	. oop , oop , oop !
+MOT	wait wait .
+MOT	lemme take some back, you're gonna need some tomorrow morning , okay
+MOT	for your cereal .
+CHI	xxx .
+MOT	Jack ?
+FAT	yes .
+MOT	let's eat .
+FAT	oh . .
+FAT	who's that ?
+FAT	who is that sitting there  ?
+CHI	me   .
+FAT	who's you ?
+CHI	me .
+FAT	who are you ?
+CHI	Laurie .
+FAT	I don't know you .
+FAT	do I know you ?
+CHI	mhm .
+FAT	yeah ?
+FAT	who are you ?
+CHI	Laurie .
+FAT	Laurie who ?
+CHI	Laurie h .
+FAT	where do you live ?
+CHI	on Bennett street .
+FAT	no , you do not !
+FAT	where do you live ?
+CHI	in Bennett street .
+FAT	where do you live ?
+CHI	in Bennett street  .
+FAT	no , you do not live at Bennett street .
+FAT	now , where do you live ?
+CHI	I live at Bennett street xxx .
+MOT	Laurie , you're silly .
+FAT	where do you live ?
+CHI	on Bennett street  .
+FAT	no .
+FAT	what  what street do you live  ...
+CHI	Bennett street  ya .
+FAT	you live on Edgewater .
+CHI	Edgewater .
+FAT	what number Edgewater  ?
+MOT	four ol three in Waltham .
+FAT	what number Edgewater drive ?
+FAT	oh , mygoodness .
+FAT	spaghetti for the third day in a row xxx  .
+MOT	well , I've  gotta get rid of it .
+FAT	trying to get rid of me at the same time ?
+FAT	I'm being poisoned , Laurie .
+CHI	eating poison ?
+FAT	I'm being poisoned .
+MOT	now , Laurie , eat , alright ?
+FAT	call the police , Laurie .
+FAT	and tell them I'm being poisoned .
+MOT	Laurie , use your fork . , alright ?
+FAT	say , .
+FAT	 my daddy is being poisoned .
+CHI	daddy's being poising  poisoned .
+FAT	by his mummie .
+MOT	yeah , by his mommy xxx ! laughs  .
+FAT	by   by his wife .
+MOT	I'm telling ya , Jack , you slipped one too many times .
+MOT	.. daddy thinks I'm his mother .
+MOT	isn't that silly ?
+CHI	0 ! coughs 13. you xxx .
+MOT	I don't want lowfat milk on this .
+FAT	why do you always get lowfat milk ?
+MOT	I don't know what the story is from lasagna .
+MOT	can't tell the difference .
+FAT	ah .
+FAT	are you a meat head , Laurie ?
+CHI	mm .
+MOT	Laurie , what's wrong ?
+CHI	the meat burns .
+MOT	look , if you're gonna eat like a pig you can  leave .
+CHI	uh .
+MOT	now sit up . right .
+FAT	where're you going tomorrow , Laurie ?
+FAT	do you know ?
+CHI	mommy's going to school tomorrow .
+CHI	then you take care of me after mommy comes back .
+CHI	first .
+CHI	guess where we're going ?
+FAT	where ?
+CHI	xxx .
+FAT	we are !
+CHI	yes .
+FAT	where am I gonna take you tomorrow morning ?
+MOT	don't you remember ?
+FAT	where'd daddy say he was gonna take you ?
+CHI	where ?
+MOT	to his office .
+FAT	to work .
+CHI	a work .
+CHI	yeah ! giggles .
+MOT	are you gonna leave right at seven thirty ?
+MOT	or are ya gonna leave more like nine ?
+FAT	no , seven thirty .
+CHI	let's watch the game .
+MOT	eat your hot dogs .
+CHI	um , I wanna leave .
+MOT	no , you've gotto eat , Laurie , or you're not gonna get well .
+FAT	you're not gonna go to work tomorrow either .
+MOT	eat your hot dog , please .
+CHI	mm .
+MOT	Laurie , if you don't eat that you can just leave and go to bed . alright ?
+MOT	because you won't have any other good things you like .
+CHI	mom  .
+MOT	I'm telling you  you'd better ...
+MOT	the only way you're gonna get better and get rid of that cold is to eat .
+CHI	no .
+CHI	0  ! yells .
+MOT	Laurie , I'm really getting angry .
+MOT	come on .
+MOT	go to bed .
+MOT	just go to bed .
+CHI	mm .
+MOT	don't ask me for ice cream or anything like that later .
+MOT	and don't wake up and tell me you're hungry .
+MOT	and no more tv .
+CHI	I want .
+MOT	no .
+CHI	I want .
+MOT	no .
+MOT	you don't eat then no tv .
+CHI	I don't wanna eat ! crying .
+MOT	no .
+MOT	from now on that tv goes off when we eat .
+CHI	I want it .
+MOT	xxx .
+CHI	0 ! crying I want xxx it !
+MOT	I'm tired of it .
+CHI	0 ! crying watch television I wanna watch television .
+MOT	no .
+MOT	you will eat then xxx .
+MOT	you've seen enough tv , I'm sure , today .
+MOT	what'd you and gramma do all day ?
+CHI	no .
+CHI	I wanna watch television .
+FAT	what'd you and gramma do today ?
+CHI	I wanna watch television .
+MOT	no .
+MOT	we're gonna eat when it's time to eat , you eat .
+MOT	that's all .
+CHI	but I wanna watch television  .
+add	mot
+MOT	that's because before we eat you remind  daddy to turn tv off
+CHI	xxx .
+MOT	shouldn't  be on when we're eating .
+CHI	but I wanna watch television   .
+CHI	I want to watch it   .
+MOT	well , Laurie  that's too bad .
+MOT	cause we're not gonna watch television .
+MOT	did you tell daddy you set the table ?
+CHI	did you know I set the table ?
+FAT	no .
+FAT	did you ?
+CHI	yeah .
+FAT	that was very good .
+CHI	no  no .
+CHI	I wanted my plate right on the napkin  .
+MOT	okay  xxx .
+CHI	0 ! noises good .
+MOT	xxx .
+CHI	pour it  .
+FAT	I  thought I'd bring home a package of that tomorrow after work  .
+CHI	pour it pour it  .
+MOT	tomorrow you think  you'll have time ?
+FAT	yeah .
+CHI	hey !
+CHI	oo .
+MOT	I talked to Walter .. about that xxx across the store .
+CHI	I'm all wet .
+MOT	I told him I didn't know how to charge xxx  .
+CHI	look , I'm all wet  !
+CHI	I'm all wet !
+MOT	put your sleeve up and we'll change it later .
+CHI	uh  !
+MOT	so  he said we don't really need to have it in until January .
+MOT	he suspects we could use it for a few more months  .
+CHI	oo , xxx  .
+MOT	and he gave me a little form to figure things out on .
+CHI	oo .
+MOT	he said some people overestimate what they're able to pay and they
+CHI	oo  .
+MOT	and some people underestimate .
+CHI	I want juice  .
+MOT	he said last year two  people didn't need  thought they
+CHI	I don't  want that juice .
+CHI	I want some orange juice .
+MOT	there isn't any juice , okay ?
+MOT	some people that thought . um . they would need aid didn't
+CHI	xxx xxx  .
+MOT	so he said  if  if you were sending her before and you hadn't bought the house how much would you be able to pay .
+MOT	I said McCarthy , I don't think that we would xxx .
+CHI	oo mm .
+CHI	why do you hafta haveto at Utica ?
+MOT	what ?
+CHI	why do you hasta  hasto stay at Utica ?
+MOT	we don't haveto stay in Utica . but  we'd like to .
+CHI	why  ?
+CHI	why ?
+MOT	do you wanna stay in Utica ?
+CHI	yeah .
+CHI	all day !
+MOT	we're gonna stay for four days .
+CHI	uh  .
+FAT	and  you're gonna sleep with Peewee .
+CHI	where ?
+FAT	down the cellar .
+CHI	iiiib .
+MOT	do you wanna sleep there ?
+CHI	down the cellar ?
+MOT	sure .
+CHI	no .
+MOT	no ?
+CHI	hunhunh  .
+MOT	you gonna just  leave Peewee alone down there 6. ?
+MOT	I don't know how we're all gonna sleep there .
+FAT	who's coming Wednesday ?
+MOT	nobody .
+FAT	who's coming in Thursday ?
+MOT	everybody .
+MOT	xxx  .
+FAT	who  ?
+CHI	mm  wh   ...
+MOT	Amy and Larry  . and Jenny and John . and . si  Sid's coming but they're not planing to stay  .
+CHI	Suki  .
+FAT	well , since they ...
+CHI	su all  I'm gonna say is ...
+CHI	Suki's coming .
+FAT	is Suki coming ?
+CHI	Suki .. , Leslie ...
+MOT	Laurie , you haven't eaten one good thing  .
+CHI	Leslie , Heidi and Joey .
+FAT	are you all gonna play ?
+CHI	yeah .
+CHI	what's the other baby's name ?
+FAT	I don't know .
+FAT	what's the other baby's name ?
+CHI	what's the other baby's name ?
+CHI	who else is there  ?
+MOT	whose baby ?
+MOT	whose baby you talking about ?
+MOT	Leslie and Heidi you said .
+MOT	le Leslie and Heidi , Jill and Suki .
+CHI	but wh  ...
+CHI	the lil  little ...
+CHI	is there  .
+MOT	nobody  .
+FAT	well all I could say is the newest  .
+MOT	xxx  .
+FAT	the newest family to the xxx is  .
+CHI	Heidi , Joey  .
+FAT	is Jennifer and what's his name  ?
+FAT	and so they get last outs  .
+CHI	xxx  .
+FAT	so they sleep down on the floor and we  get first choice .
+CHI	and  Leslie and .
+MOT	well , I  think I have  ...
+MOT	I have that figured out .
+CHI	xxx .
+MOT	. what'd I figure ...
+CHI	wh  .
+MOT	. you   ...
+MOT	I forgot what I figured out .
+CHI	he put the baby in the bed ...
+MOT	Jenny and John can sleep in the big bed .
+CHI	is daddy gonna be there ?
+MOT	are you gonna xxx  ?
+CHI	xxx gonna be there ?
+CHI	xxx be there .
+CHI	in a few days .
+CHI	when is the new baby gonna be here ?
+MOT	what new baby ?
+CHI	the baby xxx .
+MOT	Laurie , I told you . I am not having a new baby now .
+CHI	when your tummy gets big xxx  .
+MOT	yeah but that's  gonna be in a long time .
+CHI	could I take xxx to Utica ?
+MOT	yeah , but I don't want to talk about it cause it's not gonna be for a long , long time .
+MOT	I'll tell you when .
+CHI	but  but when  but I'll  but  but I'll  you'll
+MOT	xxx  .
+CHI	you'll hafta haveto  get  bring that crib ...
+CHI	it's better to bring the crib up  for the  my baby  .
+MOT	right  would you like applesauce ?
+MOT	would you like applesauce ?
+CHI	yeah .
+MOT	you gonna eat that meat ?
+CHI	no .
+CHI	you have ...
+CHI	this is not meat .
+MOT	hot dogs is meat .
+FAT	hot dogs is meat .
+CHI	oh .
+CHI	no , no .
+CHI	you  you , daddy ...
+CHI	you hafta haveto have that  that ...
+CHI	you know what when  when my new baby sleeps it  Utica you'll
+MOT	Laurie , honey  we're not having a new baby for a very , very
+CHI	I know  ...
+MOT	so let's not even talk about it .
+MOT	I get very tired of talking about it .
+CHI	well , I'm talking to daddy about it  .
+MOT	well ! laughs  ...
+CHI	daddy , daddy , you hafta haveto , haf  have want me to bring
+CHI	I will .
+CHI	I will .
+CHI	remember to , okay ?
+FAT	I  I'll remember .
+CHI	when you get to Utica you tell Bubby to bring um . the crib up
+FAT	okay .
+CHI	do it .
+FAT	you remind me .
+CHI	alright ?
+FAT	alright  .
+CHI	you  remind Bubby .
+FAT	okay .
+MOT	your mother must have taped her mouth all day .
+FAT	did you talk a lot to grandma today ?
+MOT	don't . put that ...
+MOT	you want more ?
+MOT	do you want more ?
+CHI	ya xxx .
+CHI	mhm .
+MOT	you like . this juice .
+MOT	well , there's more right in your cup .
+CHI	I want more in here .
+MOT	you want this poured into here ?
+CHI	yeah .
+CHI	uhhuh .
+MOT	okay , Laurie , you haven't even touched your plate .
+MOT	xxx ? you didn't  touch it .
+MOT	what's wrong with you ?
+MOT	now use this and eat , honey .
+CHI	xxx  I wanna pour this !
+MOT	um .
+MOT	you'll get that when you eat some more of this .
+CHI	I want some . xxx .
+CHI	I want that !
+CHI	I want  it !
+FAT	you  whad  what did you say ?
+CHI	0 ! crying .
+FAT	if you eat some of that hot dog xxx or you won't get anything else
+MOT	I'm serious .
+MOT	eat .
+FAT	leave !
+MOT	xxx  .
+FAT	you can  leave right away !
+CHI	0 ! crying  .
+MOT	forget it .
+FAT	okay , that's it .
+MOT	xxx  .
+CHI	I want it  .
+MOT	then you eat it .
+CHI	I'll   ...
+MOT	cause next  time I take it away you won't get it back .
+MOT	I'm ...
+MOT	you know , this is ridiculous ! coughs .
+MOT	if you wanna eat , eat .
+MOT	if you don't , then leave the table .
+MOT	you're getting your hair cut ?
+FAT	no .
+CHI	0 ! coughs and whines .
+FAT	oh , Laurie !
+CHI	0 ! cries and coughs .
+MOT	alright , I told you you don't haveto eat .
+MOT	goodbye .
+CHI	I want it .
+MOT	then don't make noises .
+CHI	0 ! coughs and makes noises like choking .
+MOT	Laurie , if it's that bad then you don't haveto eat it .
+FAT	I'm gonna take the typewriter to Utica with us .
+MOT	what  ?
+FAT	so  .
+FAT	I'm taking the typewriter to Utica with us cause there's typing
+FAT	there's alotof typing that that needs to be done   ...
+MOT	ah , where  do you think you're gonna use it in Utica ?
+FAT	on the table .
+FAT	some place .
+MOT	well , you ...
+MOT	my father never in a million years would let you use it on the
+FAT	well , don't worry .
+FAT	I'll find ...
+FAT	there's a card table that it can be set up on  .
+MOT	you can use it  on a desk up stairs  .
+FAT	yeah  okay .
+CHI	where will daddy sleep ?
+MOT	I don't know .
+MOT	where do you think he should sleep ?
+FAT	I'm gonna sleep down with Peewee .
+FAT	want me to sleep with Peewee ?
+CHI	no .
+CHI	really where will you sleep ?
+FAT	with pee Wee .
+CHI	yeah but . ya . but the door will be closed .
+FAT	I know it .
+MOT	you gonna put the garbage out , Jack ?
+FAT	what ?
+FAT	yeah  .
+MOT	you know  I thought Ray would just take it out for us if we asked him to put it in the garage .
+FAT	oh , yeah .
+FAT	well , hold it .
+FAT	no .
+FAT	it's ...
+FAT	forget it anyway , it's a holiday .
+FAT	remember ?
+FAT	Thursday's a holiday .
+FAT	that means the  their schedule is moved up .
+CHI	oh  .
+FAT	that means  collection won't be till ...
+MOT	Saturday .
+FAT	no .
+FAT	Saturday or Sunday .
+MOT	will be Saturday  and we won't be here .
+FAT	well  .
+CHI	Suki's coming ...
+MOT	well , we can forget it for a week we've done it before  .
+CHI	my baby's coming  .
+MOT	just put it in one the big garbage cans  .
+CHI	where's my xxx my baby ?
+MOT	it's gonna be a problem all the time on weekends .
+CHI	mm .
+MOT	Laurie , I'm getting very angry  .
+CHI	hm  .
+CHI	9. xxx and too bad .
+CHI	want  .
+MOT	if you really want to  .
+MOT	if you really want to  .
+CHI	the milk .
+MOT	I wonder why it's so loose .
+CHI	xxx .
+FAT	I don't know .
+FAT	I don't know what you did to it .
+MOT	doesn't taste any different , does it ?
+CHI	xxx  .
+FAT	no  it's just loose .
+CHI	I want ta milk .
+FAT	eat it !
+CHI	0 ! coughs too much .
+FAT	well , good !
+FAT	bite a little of it at a time !
+CHI	0 ! coughs 14. .
+FAT	did gramma and you go out today ?
+MOT	I don't know .
+CHI	no .
+FAT	what'd you do ?
+CHI	I went out ...
+MOT	she sat in the sink for an hour .
+FAT	she sat in the sink for an hour .
+MOT	yeah .
+MOT	because her bottom . was raw from not having a bath in so long .
+MOT	and your mother called me . around noon .
+MOT	thank goodness I was busy .
+MOT	and I got the message to call your mother inlaw immediately .
+CHI	yell .
+MOT	and so when I got back about forty five minutes later and I called
+MOT	I haven't given her a bath becauseof her cold which xxx touch xxx
+CHI	yell .
+MOT	stop it .
+CHI	0 ! coughs .
+MOT	you sound wonderful .
+MOT	well , anyhow , when I got home she told me she sat her in the bath
+CHI	0 ! noises  .
+MOT	ah .
+CHI	gimme a xxx .
+MOT	and she smothered her with Vaseline .
+CHI	0 ! coughs .
+MOT	Laurie , you know , I don't like the way you're acting tonight at
+CHI	I wanna  .
+MOT	no  lookit .
+CHI	0 ! whines .
+MOT	you  got this in your food .
+MOT	you know , I really don't care to sit here with a monkey .
+MOT	now if you're really gonna to eat , fine .
+MOT	but if you're not gonna eat , leave .
+MOT	now , what do you want ?
+CHI	wan eat it .
+MOT	what .
+MOT	oh , no .
+MOT	you're not getting anything until this is gone .
+CHI	I'm thirsty .
+MOT	juice you can have .
+MOT	.. this is ridiculous I don't know what's getting into you .
+FAT	what's getting into you .
+FAT	Laurie ?
+MOT	ah .
+FAT	well ! sighs 10. .
+FAT	what time's my mother coming over tomorrow ?
+MOT	well , she said she could make it earlier if we could leave earlier .
+MOT	said she'd . be here by five if we wanted to leave that early .
+FAT	okay .
+FAT	nah .
+MOT	nah what ?
+FAT	we'll leave xxx  .
+CHI	0 ! making noises .
+MOT	xxx make sure you have a goal .
+FAT	okay .
+CHI	I wan ! noises ...
+FAT	nine or ten o'clock at night .
+MOT	well , John , come here a minute .
+FAT	okay , hang on .
+FAT	hang on .
+FAT	the other thing , tootsie ...
+MOT	yeah .
+CHI	wanna get down now .
+CHI	wanna get down .
+MOT	you know , you're gonna wake up at about ten o'clock and tell me
+FAT	what time did you sleep till this morning ?
+MOT	she slept a long time .
+FAT	she slept until I woke her up to ge  to go to work  .
+MOT	yeah , she slept a long time  .
+FAT	you  you know you slept until daddy hadda  had to wake you up ?
+FAT	do you know daddy woke you up this morning  ?
+MOT	you was a very good girl this morning  .
+CHI	you woke me up when I got up .
+MOT	oh , poor dear  .
+FAT	oh   .
+MOT	for once in her life she was awakened .
+FAT	do ya  daddy really wasn't very nice to wake you up , was he ?
+CHI	no , cause I  I couldn't sleep when you woke me up .
+FAT	is that right ?
+CHI	yeah .
+FAT	oh .
+CHI	an I had ta get up and get dressed .
+FAT	you did !
+CHI	yeah .
+MOT	I don't think you even got dressed today , did you ?
+MOT	you been in those same pajamas the whole day ?
+CHI	yeah !
+MOT	you didn't get dressed at all ?
+CHI	I did !
+CHI	and then . ...
+CHI	after you come back from school are you xxx about Utica ?
+MOT	yes .
+CHI	are we gonna stay there ?
+MOT	for a while .
+MOT	I'm glad you made such a good dinner tonight .
+MOT	what'd you eat this afternoon ?
+MOT	did gramma give you alotof food ?
+CHI	mhm .
+MOT	like what ?
+CHI	she gave me macaroni .
+MOT	yeah .
+MOT	for lunch .
+MOT	did she give you pudding ?
+CHI	uhhuh .
+MOT	an you ate all day .
+CHI	uhhuh .
+MOT	oh , yes , you ate all xxx  .
+CHI	I get  all macaroni .
+MOT	did you ?
+CHI	uhhuh .
+FAT	did you eat a  have ice cream time ?
+CHI	no .
+MOT	well , you're not gonna get dessert ! laughs .
+FAT	that means she did .
+CHI	xxx .
+FAT	gramma gave you ice cream today .
+FAT	didn't she ?
+CHI	no she didn't !
+FAT	yes , she did !
+CHI	no laughs no , no .
+MOT	xxx  .
+FAT	yes , she did  .
+CHI	no .
+FAT	she did !
+CHI	no .
+FAT	yes or no .
+CHI	no !
+FAT	well , gee , if she did I would've given you more but since she didn't , no , can't have any now .
+CHI	you can't you  you can't  you can't . you  you wake me up
+CHI	an then I can  an then I can't sleep again .
+FAT	you can't .
+CHI	no .
+CHI	cause I can't ...
+CHI	I hafta sleep on the couch ...
+FAT	you will ?
+CHI	yes .
+MOT	did gramma try put to put you to bed today ?
+CHI	mhm .
+MOT	and what'd you do ?
+CHI	I didn't fall asleep .
+MOT	where did she put you to bed ?
+CHI	on the couch .
+MOT	did she ask you to go in your bedroom ?
+CHI	yeah , but I didn't .
+MOT	why not ?
+CHI	because I didn't want to .
+CHI	I wanna . do ...
+MOT	where're ya going ?
+CHI	get . right . down .
+CHI	I wanna get down .
+CHI	oop I wanna get down .
+FAT	alright .
+CHI	0 ! whines .
+MOT	alright .
+MOT	I want you to pick out a book and I'll read it to you and then it's time for bed .
+CHI	I wanna watch sesme  Sesame .
+MOT	Sesame's almost over .
+CHI	alright .
+MOT	then when it's over would you find a book and I'll read it and you go to bed .
