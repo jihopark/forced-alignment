@@ -1,0 +1,473 @@
+FAT	what do you wanna do ?
+CHI	sit up here .
+FAT	you wanna sit up here ?
+CHI	yeah .
+FAT	okay , how about sitting over here ?
+FAT	do you see what all this is ?
+FAT	what's this ?
+FAT	what's this called ?
+CHI	a penny .
+FAT	oh . , what's this called ?
+CHI	a quarter .
+FAT	oh , you've got them mixed up .
+FAT	the big one's a quarter .
+FAT	that's a quarter .
+FAT	which is the penny ?
+FAT	show me a penny , can you ?
+FAT	that's a nickel what's that ?
+CHI	a penny .
+FAT	no this is a penny .
+FAT	that's a penny .
+FAT	how many pennys do you want ?
+CHI	I already has  have ...
+FAT	do you know what that is ?
+FAT	what are you doing ?
+CHI	I still making ? drinking milk .
+FAT	ah , do you like the milk ?
+FAT	do you want chocolate on it ?
+CHI	yeah .
+FAT	okay , let's see if we can make it chocolate milk .
+FAT	let's see what's in here .
+FAT	oh , look at all this stuff .
+FAT	here .
+FAT	do you see anything to make chocolate milk with ?
+FAT	a spoon .
+FAT	what else is here ?
+FAT	let's see if we could make chocolate milk with this .
+FAT	does this open ?
+FAT	let's see what's in here .
+FAT	oh , there's real Nestles Quik in here .
+FAT	that's going to make a mess .
+CHI	make strawberry milk .
+FAT	oh , you want strawberry milk ?
+FAT	okay . , go get the cup .
+FAT	how did you know that was strawberry milk ?
+FAT	Nanette ?
+FAT	how did you know this was strawberry ?
+FAT	have you ever had strawberry milk ?
+FAT	have you ?
+FAT	where have you had strawberry milk before ?
+CHI	in  in that cuppie .
+FAT	did you have strawberry milk before here ?
+CHI	yeah .
+FAT	is that the only time you've had strawberry milk ?
+CHI	yeah .
+FAT	oh , what's this  ?
+CHI	I  I  still using a knife .
+FAT	you are ?
+FAT	what're you going to cut ?
+CHI	some . some . chocolate milk .
+FAT	oh , you're going to make some chocolate milk .
+CHI	we  we have some .
+CHI	hey , we cook we  we have ...
+FAT	what are you looking for ?
+CHI	I looking xxx .
+FAT	do you haveto go to the bathroom ?
+CHI	no .
+FAT	okay .
+CHI	xxx I  I haveto  I  haveto ...
+FAT	what  kind is this ?
+FAT	how does this work ?
+FAT	push that in .
+FAT	do you think it stays in ?
+CHI	sissie  .
+FAT	xxx  .
+FAT	do you haveto make sissie ?
+CHI	yeah .
+FAT	oh , okay , can you wait ?
+CHI	xxx in that knife .
+FAT	okay , do you haveto make sissie ?
+CHI	yeah .
+FAT	okay , we'll go make sissie .
+FAT	hold on .
+FAT	we'll find out where to go .
+FAT	do you know where to go ?
+CHI	in the bathroom .
+FAT	do you know where the bathroom is here ?
+INV	xxx go to the bathroom xxx ! giggles .
+FAT	yes ! laughs come on .
+FAT	we'll go out this way .
+INV	come on , Nanette .
+FAT	come on out .. .
+CHI	xxx I had to make sissie .
+FAT	yes , you did .
+CHI	xxx xxx  .
+FAT	that's very good  that you told me .
+FAT	what's over here  ?
+CHI	I wan   I wanna play with that truck .
+FAT	with the truck ?
+CHI	truck .
+FAT	okay , we'll play with the truck .
+FAT	let's see what the truck looks like .
+FAT	oh . have you seen the truck before ?
+CHI	yeah .
+FAT	do you like this truck ?
+FAT	see what else is here ?
+FAT	look at all these other things .
+FAT	who's the driver of the car ?
+CHI	man .
+FAT	the man is ?
+FAT	what's  what's his name ?
+CHI	Peter Policeman .
+FAT	Peter Policeman .
+FAT	well , what kind of a car is this ?
+CHI	it's just ...
+CHI	Peter Policeman have a hat .
+CHI	xxx  .
+FAT	does he  ?
+CHI	xxx .
+FAT	where's the hat ?
+FAT	hm .
+FAT	what's in here ?
+CHI	he have that hat on .
+FAT	where do you think the car's going ?
+CHI	byebye .
+FAT	it's going byebye .
+CHI	byebye .
+CHI	are you going ?
+CHI	it  it  it's my turn uh going , it  it's time to go here
+FAT	xxx goes sort of like that .
+FAT	do you wanna make lunch ?
+CHI	yeah .
+FAT	okay , what are you going to make for lunch ?
+CHI	sss .
+CHI	cereal .
+FAT	okay , is there any cereal ?
+CHI	yeah y  yes , there is cereal .
+FAT	okay , let's make some .
+FAT	we need cereal , and we'll need a bowl .
+FAT	where's a bowl ?
+FAT	you can use the cup .
+CHI	0 ! dringing noises xxx have some xxx some a xxx k ...
+FAT	kangaroo what  ...
+FAT	and what's on the door  ?
+CHI	xxx Sesamestreet   .
+FAT	what's from Sesamestreet ?
+FAT	is that Sesamestreet ?
+CHI	yeah .
+FAT	is it ?
+CHI	no .
+FAT	yeah , I didn't think it was .
+FAT	what is that ?
+CHI	I think it was .
+FAT	yes , but it's not .
+FAT	that's not Sesamestreet .
+CHI	xxx you  yo ...
+CHI	I want some books .
+FAT	oh . , you  you want some books .
+FAT	okay . , here's a book .
+FAT	ya want me to read you this book ?
+CHI	yeah .
+FAT	okay , where do you want to sit ?
+CHI	right in that chair .
+FAT	okay , do you wanna bring the chair over nextto me ?
+CHI	yeah .
+FAT	okay , why don't we bring . the two chairs together ?
+FAT	sit over here ! grunt .
+FAT	this is called Thegreatcatchase .
+CHI	that's Puddy .
+FAT	it's called the great cat chase .
+FAT	you know what ?
+FAT	it doesn't have any words .
+FAT	we'll haveto make some up .
+FAT	okay .
+CHI	that's Puddy .
+FAT	that ...
+FAT	okay , is the cat's name Puddy ?
+CHI	yeah .
+FAT	what's the girl's name .
+CHI	Tupty .
+FAT	Tupty ?
+CHI	Tupty .
+FAT	that's the girl's name ?
+CHI	yeah .
+FAT	okay , let's see .
+FAT	once upon a time Tupty and Puddy went for a walk .
+FAT	and Tupty got all dressed up in her mother's clothing she put
+FAT	as they were walking along . Tupty . saw a beautiful red flower
+FAT	as she bended down . Puddy . pushed away the blankets and
+FAT	she got so worried .
+FAT	she got so . surprised that she threw her arms up in the air ,
+FAT	and what's Puddy doing ?
+CHI	climbing up a tree .
+FAT	oh , but what  what's down here ?
+FAT	do you think he'll climb up the tree ?
+CHI	yeah .
+FAT	that's what the next ...
+FAT	no .
+FAT	he doesn't  doesn't climb up the tree .
+FAT	well , Tupty looks very upset .
+FAT	and she went running down the street where she saw her friend the
+CHI	a boy riding his bicycle .
+FAT	yes .
+FAT	here's a boy riding his bicycle .
+CHI	just like me .
+FAT	just like you .
+FAT	and Tupty goes running over to . the policeman and says .
+FAT	 have you seen my cat , Puddy ?
+FAT	and the boy . who's playing the policeman says .
+FAT	 oh , she's right over there .
+FAT	she points  he points to Puddy .
+FAT	and Tupty is very relieved .
+CHI	Hupty .
+FAT	mhm .
+FAT	but that's only part of the problem .
+FAT	cause they found where . Puddy is , but they still don't have her
+FAT	so now they haveto get her back .
+FAT	so the policeman gets down on his knees and says .
+FAT	 here Puddy .
+FAT	 come Puddy .
+FAT	 come over to me .
+CHI	laughs .
+FAT	and xxx .
+CHI	he felled  fell  .
+CHI	he broke  his hat .
+FAT	yes  yes , he fell down he ...
+FAT	all of a sudden the policeman . jumps to grab Puddy , and she
+FAT	and he falls and doesn't . pick her up what do you think the
+CHI	he  he's ang  he's mad .
+FAT	yeah .
+FAT	what does he think over here ?
+FAT	is he smiling or frowning .
+CHI	he not smiling .
+FAT	okay . , and then all three of them go chasing after Puddy and
+FAT	xxx  .
+CHI	a mirror  .
+FAT	where's a mirror ?
+FAT	no .
+FAT	see what that is ?
+FAT	that's a big pipe and go  go up to a big pipe and looks like
+CHI	Puddy going in pipe  .
+FAT	yes  .
+FAT	and Puddy runs through the pipe and climbs out at the other end .
+FAT	while everybody  the policeman is looking in at the pipe
+FAT	and the policeman runs through the pipe .
+FAT	and Tupty runs through the pipe .
+FAT	and the policenan  policeman falls outof the pipe at the very
+FAT	Puddy runs away up the hill .
+FAT	the policeman hol  helps Tupty out . of the pipe .
+FAT	and she falls into the water too .
+CHI	Tupty  Tupty hat .
+FAT	yes .
+FAT	Tupty falls into the water too .
+FAT	and she loses her hat .
+FAT	it goes on the policeman's head .
+FAT	and Puddy . hops back into the pipe . and runs the other way .
+FAT	Tupty and the policeman get outof the water , and they're dripping
+FAT	and they come through the pipe .
+FAT	and when they come through the pipe there's Puddy , who is caught
+FAT	remember the boy who was riding . the tricycle .
+FAT	and he has Puddy .
+FAT	let's go of Puddy .
+FAT	Puddy jumps on the policeman's head . and climbs up the tree .
+FAT	you were right about him climbing up the tree .
+FAT	and the  .
+CHI	he's  climbing up that tree .
+FAT	yes !
+FAT	and the policeman looks very mad . goes up in the tree and chases
+FAT	and the girl looks  and Tupty looks very pleased .
+FAT	whoop !
+FAT	but then the branch breaks .
+FAT	and the policeman and Puddy fall down with a crash . onto the
+CHI	he's crying .
+FAT	yes , and Puddy is caught by Tupty .
+FAT	and  he's ...
+CHI	Puddy's  crying .
+FAT	he's crying .
+FAT	he didn't want to be caught .
+FAT	and the policeman who doesn't feel very good at all . goes
+FAT	and Puddy follows them right along .
+FAT	and they go home to Tupty's house .
+FAT	Tupty goes in and says . .
+FAT	 wait a minute .
+FAT	 I'll be right out .
+FAT	she tells everybody .
+FAT	and she comes out .
+FAT	and what's she wearing ?
+FAT	what's she wearing ?
+CHI	a hat .
+FAT	yeah , that's a nurse's hat .
+CHI	xxx .
+FAT	she's all dressed up like a nurse .
+FAT	and she has cookies and lemonade .
+FAT	and she brings it out , and she gives everybody a treat .
+FAT	and Puddy isn't running away .
+FAT	I think he was just playing .
+FAT	did you like that book ?
+CHI	read it again ?
+FAT	you want me to read it again ?
+FAT	okay , I'll read it again .
+FAT	here we go .
+FAT	okay once upon a time .. Tupty and Puddy went for a walk .
+FAT	Tupty got all dressed up like a big lady and pretended that Puddy
+FAT	and . as Tupty stopped to pick a flower Puddy ran away .
+CHI	laughs .
+FAT	what's so funny ?
+CHI	li  li  li  li  li  li  little boy  boy's
+FAT	yes .
+FAT	and then what happens ?
+FAT	the policeman points to Puddy and says .
+FAT	 there he is .
+FAT	and he tries to get Puddy to come over .
+FAT	here , Puddy , here , Puddy he jumps to get her .
+FAT	but she runs away .
+CHI	tha  there they are .
+CHI	there they are  yeah .
+FAT	Puddy  ran over there ?
+CHI	yeah .
+FAT	oh is that where sh  Puddy ran ?
+CHI	ri right there .
+FAT	right there .
+FAT	and then what happens ?
+FAT	where does Puddy go next ?
+CHI	there .
+FAT	where's there ?
+FAT	what's  what's Puddy going into ?
+CHI	in that pipe .
+FAT	into the pipe .
+CHI	th th there .
+FAT	Puddy went over there ?
+CHI	yeah .
+FAT	okay . , did you like   ...
+CHI	xxx and  Puddy went over there too .
+FAT	Puddy went everywhere do you like Puddy ?
+FAT	do you like Puddy ?
+CHI	Puddy climb xxx big hole .
+CHI	I  I gonna make some tea .
+FAT	you're going to make some what ?
+CHI	tea .
+FAT	oh , tea .
+FAT	okay . , how do you make ...
+FAT	who makes tea ?
+FAT	xxx what're we going to  what're you going to put in the tea ?
+FAT	wanna put some milk in ?
+CHI	milk in .
+FAT	okay , we'll put the milk in .
+FAT	there .
+FAT	do we have ...
+FAT	first we haveto heat up the water .
+FAT	xxx use the stove .
+FAT	wanna heat up the water ?
+FAT	okay , put the water ...
+FAT	you need a teapot .
+CHI	wh wh where you going cook it ?
+CHI	a stove .
+CHI	it's going be hot .
+FAT	mhm .
+CHI	oo .. .
+FAT	Nanette , you're making a mess .
+FAT	what're you looking for ?
+FAT	I'll help you .
+CHI	I looking some food .
+FAT	what kind of food ?
+FAT	before you take  before you take everything out . what kind of
+FAT	do you want some tea ?
+CHI	tea .
+FAT	okay , here's this is tea here's a box of it let's see if there's
+FAT	no , there's no tea .
+CHI	there's some here .
+FAT	oh , is there some in there ?
+CHI	yeah .
+FAT	xxx can ya  can you smell the tea ?
+FAT	does that smell like tea ?
+CHI	no .
+FAT	what does it ...
+FAT	does it smell like anything ?
+FAT	xxx .
+CHI	no .
+FAT	doesn't smell like tea .
+CHI	this smell . like ...
+FAT	well , what do we have here ?
+FAT	here we have coffee creamer .
+FAT	that's very messy .
+FAT	so we'll close that up tight . okay ?
+CHI	what's that in there ?
+FAT	you know what this is ?
+FAT	what is this ?
+FAT	it's coffee .
+FAT	could you put that back ?
+FAT	Nanette , that's going to get very messy .
+FAT	let go .
+FAT	did you wipe your hands off .
+FAT	you really want that , don't you ?
+FAT	you can't have it .
+CHI	0 ! squeal .
+FAT	let go .
+CHI	you  you let me put it in this cup .
+FAT	no .
+FAT	let go please .
+FAT	that's it .
+FAT	okay , wipe your hands .
+FAT	put it back in here .
+FAT	okay , I'm going to close this up because it's . very messy stuff
+FAT	do you know how we make coffee ?
+CHI	that  that's up here  there  .
+FAT	yeah  .
+FAT	this is coffee and the only way we can make it is first we haveto
+FAT	and we haveto ...
+FAT	that's old coffee too .
+FAT	and we haveto run the coffee through .
+FAT	we haveto run the water through the coffee on the stove  .
+CHI	eh eh eh eh eh  can I put it here ?
+FAT	okay ?
+FAT	pretend that it's in there .
+CHI	yum yum .
+FAT	is that good ?
+CHI	yeah .
+FAT	what do you like in your coffee ?
+CHI	Tupty went over there .
+FAT	Tupty went over where ?
+CHI	there .
+FAT	where's there ?
+CHI	Puddy went over here .
+FAT	mhm .
+CHI	wait .
+CHI	I have something great for you Daddy .
+FAT	you have something great for me ?
+CHI	yeah .
+FAT	what is it ?
+CHI	it  it  it's a goodie .
+FAT	a goodie .
+FAT	can ...
+FAT	is it something I can eat ?
+CHI	yeah .
+FAT	is it a chocolate cookie ?
+FAT	do you have a chocolate cookie for me ?
+CHI	I  I do .
+FAT	you do ?
+INV	hi , I'm Elise Masur .
+INV	I'm also connected with the project .
+FAT	oh , hi .
+FAT	I'm Name .
+INV	hi , Nanette .
+CHI	0 ! giggles .
+INV	Nanette , I have something for you .
+INV	a present .
+INV	for today's visit .
+INV	wanna take it out and see what's inside ?
+CHI	yeah .
+FAT	oh , what do you say ?
+CHI	thankyou .
+INV	let me help you .
+INV	pull .
+INV	pull it .
+INV	it's a puppet .
+INV	can you put your hand in ?
+FAT	what a great puppet ?
+INV	you haveto put your hand xxx .
+FAT	you know how to use a puppet .
+CHI	put in your hand , Daddy .
+FAT	okay .
+CHI	thankyou .
+FAT	hi , Nanette .
+CHI	0 ! giggles .
+FAT	oh , what a tasty hand .
+FAT	it tastes like coffee .
+INV	I haveto leave now .
+INV	but somebody will be back in in a few minutes .
+FAT	okay .
+INV	bye , Nanette .
+FAT	hello , Nanette .
+FAT	oh can you  can you give me a hug and a kiss ?
+FAT	can you gimme a hug an a kiss ?
+CHI	0 ! giggles .

@@ -48,10 +48,6 @@ def deal_with_one_cha_page(url, label):
 	end_list = []
 	sentence_list = []
 
-	c_beg_list = []
-	c_end_list = []
-	c_sentence_list = []
-
 	def download_audio_file(url):
 		path = "/Users/ida/Desktop/" + label
 		try: 
@@ -61,35 +57,22 @@ def deal_with_one_cha_page(url, label):
 		urlretrieve(url, path + "/audio.mp4")
 
 	def get_beg_end(ps):
-		#dr.get(url)
-		#ps = dr.page_source
-		#ps = BeautifulSoup(ps, "html.parser")
 		utterance_secs = ps.find("div", {"id":"transcript"}).findAll("span", {"name":"utterance"})
 		for sec in utterance_secs:
 
 			line = sec.find(text=True, recursive=False).strip()
-			sentence_list.append(line[5:])
+			sentence_list.append(line)
 			beg_list.append(int(sec['beg']))
 			end_list.append(int(sec['end']))
 
-			if line.startswith("*CHI:"):
-				c_sentence_list.append(line[5:])
-				c_beg_list.append(int(sec['beg']))
-				c_end_list.append(int(sec['end']))
 
 	def split_sentences():
 		path = "/Users/ida/Desktop/" + label
 		sound = AudioSegment.from_file(path + "/audio.mp4")
-		
-		path_t = path + "/total/"
+
+		path_t = path + "/sentences_audio/"
 		try: 
 			os.makedirs(path_t)
-		except:
-			print("Directory already exists.")
-
-		path_c = "/Users/ida/Desktop/" + label + "/child/"
-		try:	
-			os.makedirs(path_c)
 		except:
 			print("Directory already exists.")
 
@@ -100,29 +83,18 @@ def deal_with_one_cha_page(url, label):
 			try:
 				sent.export(path_t + "id_{}_{}_to_{}.mp4".format(i, beg, end), format="mp4")
 			except:
-				print("Sentence" + i + "in total list can't be saved as audio")
-		for i in range(len(c_beg_list)):
-			beg = c_beg_list[i]
-			end = c_end_list[i]
-			sent = sound[beg:end]
-			try:
-				sent.export(path_c + "id_{}_{}_to_{}.mp4".format(i, beg, end), format="mp4")
-			except:
-				print("Sentence" + i + "in child list can't be saved as audio")
+				print("Sentence" + str(i) + "in total list can't be saved as audio")
 
 			
 	def save_sent_as_txt():
-		with open(label + '/sentence_list.txt', 'w') as filehandle:
+		with open(label + '/sentence_text.txt', 'w') as filehandle:
 			for i in range(len(sentence_list)):
 				try:
-					filehandle.write('%s\n' %sentence_list[i])
+					s = sentence_list[i]
+					s = re.sub('[^0-9a-zA-Z\'.,!?;\s]+', '', s)
+					filehandle.write('%s\n' %s)
 				except:
-					filehandle.write("Sentence " + i + " not available\n")
-			for i in range(len(c_sentence_list)):
-				try:
-					filehandle.write('%s\n' %c_sentence_list[i])
-				except:
-					filehandle.write("Sentence " + i + " not available\n")
+					filehandle.write("Sentence " + str(i) + " not available\n")
 				
 
 	dr.get(url)
@@ -141,6 +113,7 @@ Gleason2 = "https://childes.talkbank.org/browser/index.php?url=Eng-NA/Gleason/Fa
 Gleason3 = "https://childes.talkbank.org/browser/index.php?url=Eng-NA/Gleason/Mother/"
 
 url_list = [Gleason1, Gleason2, Gleason3]
+
 
 cha_url_label_dict = dict()
 dr = webdriver.PhantomJS()

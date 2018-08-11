@@ -1,0 +1,987 @@
+FAT	what would you like to do first , Bobby ?
+CHI	this .
+FAT	this , huh ?
+CHI	xxx hey Da  Da  Daddy .
+CHI	you sit outside .
+FAT	hm ?
+CHI	sit .
+FAT	what is this ?
+FAT	Bobby ,   what is this ?
+CHI	dis  this  do you wanna see what's inside of this ?
+CHI	money .
+FAT	money .
+FAT	alright .
+FAT	what are we going do ?
+CHI	see  see  you  you ...
+FAT	this looks like a store .
+FAT	wait a minute .
+FAT	I think your  your money is stuck .
+FAT	put it in slowly .
+FAT	that's it .
+FAT	there's some more money , too .
+CHI	what ?
+FAT	there's some more money , too .
+FAT	this is dollar bills .
+CHI	okay .
+CHI	okay , Dad .
+CHI	Dad , now whaddya  what do you wanna buy ?
+FAT	what do I wanna buy ?
+CHI	yeah .
+FAT	how bout if I come in ?
+FAT	and you can ask me , okay ?
+CHI	okay .
+FAT	you  you be the  um the person who sells em .
+CHI	yeah .
+FAT	okay ?
+FAT	and I'll be  I'll be you .
+CHI	okay .
+FAT	how bout that ?
+CHI	no I'm gonna be me .
+FAT	you're gonna be you ?
+FAT	okay .
+FAT	I'll come in .
+FAT	and I'll ask you for some stuff , okay ?
+CHI	okay .
+FAT	alright .
+FAT	you ready ?
+CHI	yeah .
+FAT	xxx I'll come in .
+FAT	hi .
+CHI	hi .
+FAT	do you own this store ?
+CHI	yeah .
+FAT	this your store ?
+CHI	yeah .
+FAT	I need some things .
+CHI	whad  what do ya need ?
+FAT	I need some cookies for my Robert .
+CHI	xxx cookies xxx xxx  .
+FAT	I dan   I don't like that kind what kind  what other
+CHI	which kind  ?
+FAT	what kind do you have ?
+CHI	I have this .
+FAT	what's  what kind is that ?
+CHI	uh  cookies .
+CHI	cookies .
+FAT	okay , I'll take that kind .
+CHI	okay .
+FAT	better get some money  .
+CHI	here  .
+FAT	okay .
+FAT	take  some more money .
+CHI	here  .
+FAT	and I need some um chocolate stuff for chocolate milk .
+CHI	this ?
+FAT	ya .
+CHI	what kind do ya want ?
+FAT	what do you have two kinds ?
+CHI	yeah .
+FAT	well .
+FAT	I like this kind .
+CHI	xxx  .
+FAT	k   okay ?
+FAT	awright  alright .
+FAT	and I need some um milk .
+FAT	got any milk ?
+CHI	yep .
+FAT	just one .
+CHI	xxx  .
+FAT	okay .
+FAT	and I need some ...
+FAT	got any cereal ?
+CHI	nope .
+FAT	how bout some eggs ?
+CHI	you want eggs ?
+FAT	what am I gonna make with uh eggs ?
+CHI	scrambled eggs .
+FAT	scrambled eggs ?
+FAT	yeah .
+FAT	okay .
+FAT	this is what I'm gonna have .
+FAT	do ya have any bags ?
+FAT	I can put em in ?
+CHI	yep .
+FAT	do ya know what this reminds me of ?
+CHI	yes I xxx  .
+FAT	Star Market  .
+CHI	here .
+FAT	you're supposed to put em in .
+CHI	okay .
+FAT	okay ?
+FAT	ya haveto add up how much they cost too .
+CHI	okay .
+CHI	I will .
+FAT	how many things xxx do I have ?
+CHI	you have a lotta  lot of things .
+FAT	how many ?
+CHI	you have one , two , three xxx .
+FAT	careful those eggs .
+CHI	three .
+FAT	you know they break easy .
+CHI	four .
+CHI	xxx  .
+FAT	xxx  awright  alright .
+FAT	how much do they cost ?
+CHI	fifteen dollars .
+FAT	fifteen dollars ?
+FAT	here ya go .
+FAT	one , two .
+FAT	oh .
+FAT	here .
+FAT	lemme give you the money first .
+FAT	five that's my change ?
+FAT	hm ?
+FAT	hey .
+FAT	I need some more change .
+FAT	you sure ?
+FAT	think that's enough .
+FAT	right xxx  tell me where those bills go .
+FAT	ya hafta put em in with the other ones .
+CHI	xxx .
+FAT	yeah .
+FAT	uhhuh .
+FAT	ya know what that is ?
+FAT	tell me that number .
+CHI	don't know it .
+CHI	two .
+FAT	yes .
+FAT	and what's that number ?
+FAT	oh .
+FAT	you don't know what that ...
+FAT	what's that number ?
+CHI	five .
+FAT	right .
+FAT	okay .
+FAT	thankyou .
+FAT	see ya later .
+CHI	okay .
+FAT	I'll come back .
+CHI	okay .
+FAT	how bout you coming to buy some stuff now ?
+FAT	huh ?
+FAT	yeah okay .
+FAT	lemme  let me put this back .
+FAT	well hi .
+FAT	how are you ?
+CHI	hi .
+FAT	what can I do for ya ?
+CHI	I I ph  I want some toys .
+FAT	some toys ?
+CHI	yeah .
+FAT	well .
+FAT	I don't think we have any toys  ...
+FAT	well .
+FAT	we have a couple of toys .
+CHI	yeah I wan   ...
+FAT	we have  mostly food .
+FAT	do ya need some food ?
+CHI	yeah .
+FAT	what kinda  kind of food ?
+CHI	chocolate milk .
+FAT	chocolate milk .
+FAT	well lemme see we have some stuff to make chocolate .
+FAT	oh .
+FAT	this isn't chocolate .
+FAT	that's strawberry .
+FAT	do ya want strawberry milk ?
+CHI	xxx .
+FAT	chocolate milk ?
+FAT	you want that ?
+CHI	yeah .
+FAT	now .
+FAT	what else do ya need ?
+CHI	um we have ...
+CHI	this .
+FAT	what's that ?
+CHI	pee bag .
+FAT	tea bags .
+FAT	do ya need tea bags ?
+FAT	okay .
+CHI	and I need applesauce .
+FAT	applesauce .
+FAT	let me see .
+CHI	uh ya  ya  it's right there .
+FAT	oh .
+FAT	it's right there ?
+CHI	yeah .
+FAT	that's not applesauce .
+FAT	that's mustard .
+FAT	you like mustard ?
+CHI	yeah .
+CHI	xxx I   I need these too .
+FAT	yes yes  .
+FAT	what's that ?
+FAT	milkshake ?
+CHI	yeah .
+CHI	milkshake .
+FAT	how many ?
+FAT	do ya need all of them ?
+CHI	one , two , three .
+CHI	three .
+CHI	I need  I need all of em .
+FAT	all of them .
+FAT	okay .
+FAT	what else do you need ?
+FAT	anything else ?
+CHI	eggs .
+FAT	eggs .
+FAT	okay .
+FAT	all  this whole big one ?
+CHI	yeah .
+FAT	0 ! whistles whew .
+FAT	you're doing a big  big  uh order , aren't you ?
+CHI	and milk .
+FAT	ya need milk .
+FAT	xxx how many ?
+CHI	two .
+FAT	two , huh ?
+FAT	okay .
+FAT	whew .
+CHI	and you hap  have eggs ?
+FAT	yeah .
+FAT	is  is that all everything you want ?
+CHI	yeah .
+FAT	okay .
+FAT	I'll ...
+FAT	let me  uh let me add it up .
+FAT	do ya have money ?
+CHI	okay .
+CHI	yeah .
+CHI	yeah , yeah .
+CHI	okay .
+FAT	ya sure ?
+FAT	there's lots a money here .
+FAT	put it in your pocket .
+FAT	okay .
+FAT	I'll add it up .
+FAT	let me see .
+FAT	two milks .
+FAT	that's . fifty cents , right ?
+CHI	yeah .
+FAT	um mustard .
+CHI	yeah  .
+FAT	that's  . forty nine cents okay forty nine cents .
+FAT	tea bags .
+FAT	that's only a little one .
+FAT	that's ten cents .
+FAT	okay ?
+CHI	that's a milk .
+FAT	that's a milk .
+FAT	fifty cents .
+FAT	milk shakes .
+CHI	milk shakes .
+FAT	thirty five cents .
+CHI	eggs .
+FAT	be careful with these .
+CHI	thankyou .
+FAT	wait a minute .
+FAT	ya haven't paid me yet .
+FAT	gimme three dollars and twenty cents .
+FAT	no .
+FAT	gimme ...
+FAT	I don't need all that stuff .
+FAT	gimme a five .
+FAT	just one five .
+FAT	okay .
+FAT	put that there and I'll give ya some change .
+FAT	ya better put it in your pocket .
+FAT	okay ?
+FAT	see ya later .
+FAT	oh .
+FAT	your bag , huh ?
+FAT	who's gonna eat all that stuff ?
+CHI	we .
+FAT	who ?
+CHI	we .
+CHI	who's we ?
+CHI	us .
+FAT	who's us ?
+CHI	goodbye .
+FAT	see ya later .
+FAT	that was a good game .
+CHI	now my turn .
+FAT	you already had a turn .
+FAT	how bout if we put the stuff back ?
+CHI	ya .
+CHI	and do somesin  something else now .
+FAT	okay .
+FAT	let's put this stuff back first .
+FAT	there's a lotta  lot of things here , huh ?
+FAT	what's that ?
+CHI	tea bags .
+FAT	no .
+CHI	tea .
+CHI	tea .
+FAT	no it isn't .
+FAT	what else do ya drink ?
+CHI	tea ?
+FAT	coffee .
+CHI	it's coffee .
+FAT	hm ?
+CHI	coffee .
+CHI	xxx .
+FAT	ya wanna sit up .
+FAT	ya hafta do it slow like I told ya so it could stick up .
+FAT	I think you forgot sumpin  something .
+FAT	that goes back in the piles .
+CHI	this one here goes right there  .
+FAT	right  .
+FAT	whoops .
+FAT	ya hafta open up .
+FAT	here .
+CHI	xxx .
+FAT	hm ?
+CHI	the bank's closed .
+FAT	why don't put all th  all the uh pennys in one . an all the
+FAT	that's what they do in the store .
+FAT	here .
+FAT	why don't you put the nickels and the quarters together ?
+CHI	nickels right here .
+FAT	no .
+FAT	put all the nickels in here .
+FAT	xxx now .
+FAT	keep the pennys in the big one .
+FAT	here .
+FAT	you put the quarters and the nickels there .
+CHI	yeah .
+FAT	put the dimes there .
+CHI	yeah .
+FAT	an put the pennys in there .
+FAT	no .
+FAT	keep your pennys in this one .
+FAT	the pennys in this one .
+CHI	wanna ta  take wanna  take em all out ?
+CHI	yeah .
+CHI	put dese  these ...
+FAT	here .
+CHI	dere  there xxx .
+FAT	take that dime outa  outof there .
+CHI	oh .
+CHI	where is it ?
+CHI	oh , put nickels in here .
+FAT	yep .
+CHI	xxx like dat  that .
+FAT	how many pennys ?
+CHI	one , one , two , three , four , five , six , seven , eight , nine
+FAT	not bad .
+FAT	how many dimes ?
+CHI	one , two , twee  three .
+CHI	one ...
+FAT	oh .
+FAT	that's too many to count .
+CHI	yeah .
+CHI	xxx .
+FAT	here ya go .
+FAT	I think we wanna do sumpin  something else ?
+CHI	Daddy , dat  that goes right up here .
+CHI	I think it goes in here .
+CHI	oop .
+CHI	some money went up here .
+CHI	an it goes down .
+CHI	an dis  this goes where ?
+CHI	here ?
+CHI	yeah .
+CHI	yeah .
+CHI	an dis  this goes in here ?
+CHI	an I wanna put dis  this back .
+CHI	I'm gonna read the book .
+FAT	ya wanna read the book ?
+CHI	hey .
+FAT	we haven't put this back .
+FAT	help me with this .
+CHI	what is it , Dad ?
+FAT	when was you here before ?
+FAT	ya wanna read the book ?
+CHI	I  I  I xxx .
+FAT	wanna read the book ?
+CHI	bu  but I wanna show you which  which um .
+FAT	this is the book .
+CHI	which book ?
+FAT	this one .
+FAT	let's go sit down together  .
+CHI	I wanna show you this book  .
+FAT	that's all there is .
+FAT	just one .
+CHI	I wanna  wanna play car .
+FAT	we'll play with that next  last .
+FAT	okay ?
+FAT	let's go read the book .
+CHI	okay .
+CHI	I'm gonna  I going sit right here .
+FAT	why don't you bring it a little over with me ?
+FAT	cmon nextto me .
+FAT	ugh .
+FAT	okay ?
+CHI	yeah .
+FAT	hm .
+FAT	Thegreatcatchase .
+FAT	alright  .
+CHI	ket  cat chase  .
+FAT	who's this ?
+CHI	little boy .
+FAT	that isn't a little boy .
+CHI	no .
+CHI	this is .
+FAT	xxx  hm mommy and his daddy .
+FAT	right ?
+CHI	yeah .
+CHI	xxx  .
+FAT	a little boy okay Thegreatcatchase .
+FAT	there's no word ...
+FAT	we haveto make up some words , hm ?
+CHI	yeah .
+FAT	ya want me to make em up ?
+FAT	I'll make them up .
+CHI	you make it  .
+FAT	okay it looked like a little girl's walking . a carriage .
+FAT	and what's in the carriage ?
+CHI	kitty .
+FAT	I think she's making believe it's a baby , huh ?
+FAT	pretending ?
+CHI	yeah .
+FAT	hm ?
+CHI	yeah .
+FAT	looks like  looks like Jenny , actually , can't it ?
+CHI	yeah .
+FAT	all dressed up like her mommy with her pocketbook .
+FAT	what does  what does Jenny keep in her pocketbook ?
+CHI	huh ?
+FAT	what does Jenny have in her pocketbook ?
+CHI	um toys .
+FAT	that's right .
+FAT	lotsa  lotsof them .
+FAT	huh xxx .
+CHI	and uh shiny money .
+FAT	and money .
+FAT	and lookit .
+FAT	she bends down to pick up some flowers .
+CHI	and then he jump out .
+FAT	0 ! gasp .
+CHI	and   and hide round . the .
+CHI	round the tree .
+FAT	and what is she here ?
+FAT	she's a surprised .
+FAT	huh ?
+CHI	yeah .
+FAT	whadda  what do ya think she's saying ?
+CHI	oh where's my cat ?
+FAT	laughs that's right and she looked inside she ...
+FAT	is the cat inside there ?
+CHI	no .
+FAT	there's the blanket .
+FAT	where's the cat ?
+CHI	right here .
+FAT	he looks like he's playing , huh ?
+FAT	he's hiding .
+FAT	isn't he ?
+FAT	and she runs over to the little boy dressed up as a policeman .
+CHI	yup .
+CHI	who  who's the little boy ?
+CHI	him .
+FAT	who's name ?
+CHI	Chu  Chucky .
+FAT	just pretend it's someone ya know .
+FAT	Chucky ?
+FAT	okay .
+FAT	and who's this boy . on the bicycle ?
+CHI	me .
+FAT	that's you ?
+FAT	that's Bobby .
+FAT	okay .
+FAT	okay .
+FAT	and this is who ?
+FAT	Jen ?
+FAT	and she  she's running to the policeman .
+FAT	and what's she saying ?
+CHI	where's my cat ?
+FAT	and what's he got in his hand ?
+CHI	whistle .
+FAT	and he's saying .
+FAT	 stop .
+FAT	 hold everything .
+FAT	and they look around .
+FAT	and what do they see ?
+CHI	cat .
+FAT	the cat .
+FAT	he came out from behind the tree .
+CHI	yeah .
+FAT	and they're saying ahq .
+FAT	there he is .
+FAT	let's grab him .
+FAT	I'll betcha  bet you that's what they're saying .
+FAT	huh ?
+FAT	let's see what happens .
+FAT	and they try to sneak up  .
+FAT	 see em trying to sneak up ?
+FAT	 see em ?
+CHI	yeah  .
+FAT	here  kitty kitty kitty .
+FAT	what's the kitty doing ?
+CHI	he a  he angry .
+FAT	he looks angry .
+FAT	can't he ?
+CHI	yeah .
+FAT	he going no way  .
+FAT	 I'm not going over there .
+FAT	huh ?
+FAT	and then what happens ?
+CHI	he wun  run away .
+FAT	he runs away .
+FAT	look who's that ?
+FAT	Chucky tries to grab him .
+CHI	yeah  .
+FAT	huh  and what's Jenny saying ?
+CHI	say .
+CHI	 go get that cat .
+FAT	that's right .
+FAT	you're pretty good .
+FAT	what's he doing ?
+CHI	say .
+CHI	 woah woah come back kitty .
+FAT	who's that on his chest ?
+CHI	Batman .
+FAT	that's right .
+FAT	well , now .
+FAT	let's see happens .
+FAT	now .
+FAT	they're going after him .
+FAT	see ?
+FAT	ya know what he's saying ?
+CHI	yeah .
+FAT	that's what I do to you .
+FAT	huh ! laughs ?
+FAT	c'mere  come here .
+FAT	c'mere  come here  kitty kitty .
+CHI	c'mere  come here  .
+FAT	and what's the kitty still doing ?
+CHI	xxx .
+FAT	he still looks angry , can't he ?
+CHI	yeah .
+CHI	turn the page .
+CHI	xxx look .
+FAT	where they going ?
+CHI	they going underneath and xxx see ?
+CHI	and in the xxx up a hill .
+FAT	yeah ! laughs .
+FAT	what's he doing ?
+FAT	he  he watching them ?
+CHI	yeah .
+FAT	they gonna crawl all the way through the pipe ?
+CHI	yeah .
+FAT	boy .
+FAT	that's pretty good .
+CHI	Daddy I wanna go through the pipe some days .
+FAT	ya wanna do that too ?
+CHI	yeah .
+FAT	hm .
+FAT	I think Chuckie's doing it now , right ?
+FAT	looking for the kitty ?
+CHI	yeah .
+FAT	alright .
+FAT	turn the page .
+CHI	xxx .
+FAT	they come all the way through .
+FAT	he looks like he's falling down , huh ?
+CHI	yeah .
+FAT	laughs and the kitty's watching ?
+CHI	yeah .
+FAT	oh .
+FAT	is that water ?
+CHI	yeah .
+FAT	he's all wet .
+FAT	he fell down .
+FAT	and the kitty says .
+FAT	 see ya later .
+FAT	I'm  I'm running hm ?
+FAT	that what he says ?
+CHI	hm .
+FAT	and what's Jenny say ?
+CHI	where's my cat ?
+CHI	let's go get him .
+CHI	let go get him .
+FAT	right .
+FAT	an Chuckie's helping Jenny outta  outof the pipe .
+FAT	right ?
+FAT	so she can't fall too ?
+CHI	yeah .
+FAT	and what happens ?
+FAT	looks like they fell down again .
+CHI	yeah .
+FAT	look at the kitty .
+FAT	he's laughing .
+CHI	why ?
+FAT	he thinks it's funny .
+CHI	yes .
+FAT	getting all wet .
+FAT	see that ?
+CHI	yeah .
+FAT	splash Jenny and Chucky got all wet .
+FAT	see them ?
+CHI	yeah .
+FAT	and  and lookit .
+FAT	see them all wet ?
+CHI	yeah .
+FAT	and lookit Chuckie .
+FAT	what's he got ?
+CHI	xxx .
+FAT	now look like ...
+FAT	now what does he look like ?
+FAT	he said .
+FAT	 I'm gonna get that kitty .
+FAT	right ?
+CHI	yeah .
+FAT	so they go back into the pipe .
+FAT	cause the kitty ran in there .
+FAT	and they crawl through .
+FAT	and look at  look at this .
+FAT	who grabbed him ?
+CHI	who ?
+FAT	you .
+FAT	you said that was you didn't ya ?
+CHI	ya .
+FAT	ya .
+FAT	you grabbed the kitty .
+CHI	ya .
+FAT	and they come out .
+FAT	and they say .
+FAT	 there's my kitty ! gasp .
+FAT	but he jumps up on . Chuckie's head .
+CHI	ya .
+FAT	ya see him ?
+CHI	ya .
+FAT	an she's whispering sumpin  something .
+FAT	whad  what do ya think she's whispering to you ?
+CHI	I don't know .
+FAT	0 ! coughs I think she's saying .
+FAT	 boy that Chuckie really can't chase a cat very well .
+FAT	 can he ?
+CHI	yeah .
+FAT	cause he can't know how .
+FAT	an he goes right back up the tree .
+CHI	hm .
+FAT	have you ever seen a kitty in a tree ?
+CHI	no .
+FAT	nev  never ?
+FAT	huh .
+FAT	looks like uh Chuckie's still pretty angry .
+FAT	he climbed all the way to the to .
+FAT	all the way to the end .
+CHI	yeah .
+FAT	and he's reaching out to grab him .
+CHI	yeah .
+FAT	is he gonna get him ?
+CHI	no .
+FAT	he's not ?
+FAT	looks like he has him .
+CHI	next page .
+FAT	whad  what do ya think ?
+FAT	uh oh .
+FAT	uh oh .
+FAT	what's happening ?
+CHI	fall down .
+FAT	he down ! laughs .
+FAT	Jennifer grabbed the kitty .
+CHI	yes .
+FAT	but nobody grabbed Chuckie .
+FAT	and his shoe came off and everything .
+FAT	looks like he's got a bad leg .
+FAT	he's all sore now .
+FAT	and Robert you are back in the carriage .
+FAT	you're in the carriage .
+CHI	yeah .
+FAT	and then they look like they're pretty tired .
+FAT	don't they ?
+CHI	yeah .
+FAT	and it looks like Jennifer's going home .
+FAT	let's see what she  what she's saying  she's saying
+FAT	and she all brought out a treat .
+FAT	ya see ?
+FAT	they were all running around looking .
+FAT	for the cat .
+FAT	and she went in the house .
+FAT	and her mommy gave her some cookies and milk .
+FAT	and they all gonna come out .
+FAT	and they're all happy now because they're gonna have some cookies
+CHI	okay , the end  .
+FAT	any more  ?
+FAT	the  . .
+CHI	no .
+FAT	the end .
+FAT	how bout that story .
+CHI	and we hafta take out another box .
+FAT	this is the one you've been waiting for , isn't it ?
+CHI	yeah , I been waiting for that for a long time .
+FAT	I've never seen one like this .
+FAT	have you ?
+CHI	I ...
+CHI	nope .
+FAT	where aboutswp ?
+FAT	right here .
+CHI	yeah .
+CHI	right here .
+FAT	okay .
+FAT	what are ya gonna do ?
+CHI	there's  there's a tire in here .
+FAT	oh yeah ?
+FAT	we're gonna take this apart , okay ?
+CHI	yeah .
+FAT	and those are the tools .
+FAT	this like what I been doing to the BMW .
+FAT	the old car .
+FAT	huh ?
+CHI	hm .
+FAT	gonna take it apart .
+FAT	let's take the tire out first .
+CHI	okay .
+FAT	you gonna do it ?
+CHI	hm .
+FAT	the other way .
+FAT	that's it out .
+FAT	use two hands if you want .
+FAT	it'll be easier .
+FAT	okay .
+FAT	I think it's out .
+FAT	see if you can lift it out .
+FAT	the other way .
+FAT	other way .
+FAT	try an xxx .
+FAT	here ya go .
+FAT	let's keep em all together .
+FAT	take the tire out .
+FAT	that's the spare .
+FAT	xxx  now .
+CHI	xxx  I  I  .
+FAT	put those over here , okay ?
+CHI	okay .
+FAT	let's take the bumper off .
+FAT	first we get the people out .
+CHI	yeah .
+FAT	xxx fix the car .
+CHI	okay .
+FAT	okay , we'll put them ...
+FAT	they're gonna watch .
+FAT	okay ?
+FAT	this is in the garage .
+FAT	okay ?
+FAT	now let's take the bumpers off .
+CHI	take this .
+FAT	I think it goes the other way .
+CHI	why take the bumpers off ?
+FAT	cause I ...
+FAT	well , they had an accident , okay ?
+FAT	and we haveto straighten it out .
+FAT	it's all . bent up , alright ?
+FAT	there's one .
+FAT	the other way .
+FAT	keep em together .
+FAT	okay , now what do ya wanna take off ?
+FAT	lemme see what else take off .
+CHI	xxx now I'm gonna take off .
+FAT	let's take off ...
+CHI	this .
+FAT	the sides ?
+FAT	how bout the tires ?
+FAT	yeah .
+CHI	tires .
+CHI	I  I wan take .
+FAT	let's jack  let's jack it up .
+CHI	jack it up .
+FAT	xxx .
+CHI	yep .
+CHI	Daddy wh what's this for ?
+CHI	what's this for ?
+FAT	I don't know what that's for .
+FAT	I don't know .
+FAT	let's take the tire off  this tire off .
+FAT	we'll see what it's for .
+FAT	let's look in here .
+FAT	it looks like for the engine .
+FAT	we'll do the engine last .
+FAT	wanna do it now ?
+CHI	yeah .
+CHI	take it off  .
+FAT	let's get the engine out  .
+FAT	you can get it .
+CHI	yeah .
+FAT	let's take the tires off .
+CHI	ya .
+CHI	I'm go  I'm go take the tires off .
+FAT	go ahead .
+FAT	the other way .
+CHI	alright .
+FAT	that's the way why ?
+FAT	it goes .
+FAT	ya got a flat tire ?
+CHI	mhm xxx comes off .
+FAT	keep it together .
+CHI	now  now .
+CHI	what tires ?
+FAT	let's do this  this side .
+FAT	come over this side .
+FAT	and do this side .
+FAT	the other side .
+FAT	then  then  we'll do the front .
+CHI	why  ?
+FAT	cause it's on the jack .
+FAT	this is like a big puzzle .
+FAT	what're you looking at ?
+FAT	hm ?
+CHI	xxx .
+FAT	I'll lift it up .
+FAT	you take the jack out .
+CHI	alright .
+FAT	take the jack out .
+CHI	alright .
+FAT	put the jack in the front .
+CHI	yeah .
+FAT	put it in the front .
+CHI	xxx now .
+CHI	you get in back .
+CHI	which way ?
+FAT	okay ! laughs okay .
+CHI	this way ?
+FAT	yeah .
+FAT	that way .
+FAT	you might wanna use both hands .
+FAT	it's easier to turn .
+FAT	want me to do anything ?
+CHI	ya .
+CHI	you can do one .
+CHI	the other  one ...
+FAT	the other side ?
+FAT	which way do I turn ?
+CHI	this way .
+CHI	this way .
+FAT	the other way ?
+FAT	oh yeah .
+FAT	oh yeah .
+CHI	oh xxx man .
+FAT	oh , oh .
+FAT	oh wheel's going off .
+FAT	let's take the jack off .
+FAT	xxx .
+CHI	what do I do now ?
+FAT	can we drive it away ?
+CHI	xxx .
+FAT	can you ...
+FAT	let's take the  the headlights off . and the bumper  the
+CHI	why ?
+FAT	I'll do this side .
+FAT	an you do the other side , . huh ?
+CHI	yeah .
+FAT	okay ! sighs let's take this one off .
+CHI	take dis  this .
+FAT	ya gonna fix this ?
+FAT	you do the other side .
+CHI	okay , xxx this way .
+FAT	yeah .
+FAT	boy .
+FAT	you're really fixing that car , aren't they ?
+CHI	yup .
+FAT	huh ?
+FAT	put this together .
+FAT	now what else do we take off ?
+CHI	um .
+FAT	0 ! gasps look at that .
+CHI	where ?
+FAT	let's go .
+FAT	now .
+FAT	can we drive it away ?
+CHI	nah .
+FAT	not yet ?
+FAT	okay , what are these two ?
+FAT	wanna try these now ?
+FAT	hm ?
+CHI	no da  the  .
+FAT	wanna che   ...
+CHI	da  the x 3  don't take it all apart .
+FAT	let's see if it works .
+CHI	no .
+FAT	yeah .
+CHI	no .
+FAT	try to unsc  unscrew it and see what would happen .
+CHI	okay xxx it's fixed .
+FAT	it's all fixed ?
+CHI	yeah .
+FAT	let's turn up this one .
+FAT	let's xxx let's fix the bottom .
+FAT	oop .
+FAT	fix the bottom .
+CHI	why ?
+FAT	oop .
+FAT	oop .
+FAT	these are the nuts .
+FAT	let's put these back .
+CHI	where's dat  that go ?
+CHI	here .
+FAT	right here .
+FAT	shall we put it  fix it . together again ?
+FAT	hm ?
+CHI	yeah .
+CHI	now .
+FAT	okay , lemme see what to do .
+CHI	okay xxx .
+FAT	what're we gonna do first so we can drive it away ?
+CHI	dis  this .
+CHI	xxx .
+FAT	whad  what do ya call that ?
+CHI	xxx .
+FAT	huh ?
+CHI	xxx gonna hafta put xxx .
+FAT	xxx .
+CHI	where's dat  that thing ?
+FAT	right here .
+CHI	tight .
+CHI	now xxx .
+FAT	now .
+FAT	what do we haveto do ?
+FAT	wheels ?
+FAT	or the bumper ?
+CHI	the bumper .
+FAT	okay , gimme ...
+FAT	get one front bumper . for the front .
+CHI	dis  this bumper ?
+FAT	yeah .
+FAT	okay .
+CHI	xxx .
+FAT	get some screws .
+FAT	okay .
+FAT	want me to hold it .
+FAT	and you can put em in ?
+CHI	yeah .
+FAT	hold it .
+FAT	ya gotta put this in first I think .
+CHI	xxx okay , you hold it ! noise .
+FAT	xxx other way .
+CHI	xxx .
+FAT	make it nice and tight so it can't come loose .
+FAT	good .
+FAT	the other side .
+CHI	no .
+CHI	you get on the other side .
+FAT	wanna get on the other side ! grunts ?
+CHI	uhhuh xxx .
+FAT	think it's working .
+FAT	tight ?
+CHI	yep .
+FAT	come in .
+INV	hello .
+FAT	hi hi .
+INV	hi .
+INV	I'm Lise Menn .
+INV	xxx .
+INV	thankyou very much for coming .
+FAT	we're all done .
+FAT	okay .
+INV	hi , Bobby .
+CHI	hi .
+FAT	wanna hurry up and put it back together again .
+CHI	yeah .
+INV	Bobby , thankyou very much for coming we have a present for you .
+FAT	0 ! gasp what do you say .
+CHI	thankyou .
+INV	you'll welcome .
+FAT	do you think we should put this back together again . alright
+INV	oh oh no leave it  .
+INV	xxx Bobby  while we'll waiting you can hang around in here .
+INV	you'd rather xxx okay byebye .
