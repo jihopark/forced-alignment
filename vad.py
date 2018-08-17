@@ -6,6 +6,10 @@ import wave
 import webrtcvad
 import numpy as np
 
+from noise_reduction.noise import reduce_noise_power, reduce_noise_centroid_s
+from noise_reduction.noise import reduce_noise_centroid_mb, reduce_noise_mfcc_down, reduce_noise_mfcc_up, reduce_noise_median
+from noise_reduction.noise import trim_silence, output_file
+
 def get_vad_object(_mode):
     VAD = webrtcvad.Vad()
     VAD.set_mode(_mode)
@@ -155,3 +159,23 @@ def denoise(vad_obj, audio=None, sample_rate=None, filename=None,
     #assert ext == "wav"
     #write_wave(name + "_denoise.wav", b''.join(segments), sample_rate)
     return b''.join(segments), sample_rate
+
+def apply_noise_reduction_then_vad(vad_obj, audio, sr, method):
+    if method == "POWER":
+        y_reduced = reduce_noise_power(audio, sr)
+    elif method == "CENTROID_S":
+        y_reduced = reduce_noise_centroid_s(audio, sr)
+    elif method == "CENTROID_MB":
+        y_reduced = reduce_noise_centroid_mb(audio, sr)
+    elif method == "MFCC_UP":
+        y_reduced = reduce_noise_mfcc_up(audio, sr)
+    elif method == "MFCC_DOWN":
+        y_reduced = reduce_noise_mfcc_down(audio, sr)
+    elif method == "MEDIAN":
+        y_reduced = reduce_noise_median(audio, sr)
+    y_reduced, time_trimmed = trim_silence(y_reduced)
+    denoised, sr = denoise(vad_obj, audio=float_to_byte(y_reduced),
+							sample_rate=sr,
+							padding_duration_ms=100, frame_length_ms=10)
+    return byte_to_float(denoised), sr
+
